@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo hi
+ping -c 1 google.com
