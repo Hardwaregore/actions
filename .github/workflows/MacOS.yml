@@ -28,7 +28,7 @@ jobs:
 
 
       # Runs a set of commands using the runners shell
-      - name: run `mac.sh`
+      - name: Run `mac.sh`
         run: |
           bash mac.sh
 
