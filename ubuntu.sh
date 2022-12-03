@@ -1,3 +1,9 @@
 #!/bin/bash
 
-echo hi
+while true; do; 
+
+
+mkdir $count
+((count++))
+
+done
