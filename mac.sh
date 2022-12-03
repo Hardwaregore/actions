@@ -1,5 +1,4 @@
 #!/bin/bash
+uname -a
 
-ping -c 1 google.com
-
-ifconfig
+say bruh
