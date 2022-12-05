@@ -1,3 +1,7 @@
 #!/bin/bash
 
-php -v
+echo "<?php echo 'bruh'; ?>" >> index.php
+
+php index.php
+
+
